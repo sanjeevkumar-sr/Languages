@@ -139,9 +139,9 @@ Here's a quick match:
 
 | App Type | 	Suggested Backend Language + Framework |
 |--------- | --------------------------------------|
-| Real-time apps | (chat, games)	Node.js with Express/Nest |
-AI/data apps	Python with FastAPI or Flask
-Enterprise apps	Java with Spring Boot or C# with ASP.NET Core
-Content-heavy sites	PHP with Laravel
-Cross-platform app backend	Dart (Flutter) or Kotlin with Ktor
-Microservices/cloud apps	Go with Gin or Rust with Actix
+| Real-time apps  (chat, games) |	Node.js with Express/Nest |
+AI/data apps |	Python with FastAPI or Flask
+Enterprise apps |	Java with Spring Boot or C# with ASP.NET Core
+Content-heavy sites |	PHP with Laravel
+Cross-platform app backend |	Dart (Flutter) or Kotlin with Ktor
+Microservices/cloud apps |	Go with Gin or Rust with Actix
