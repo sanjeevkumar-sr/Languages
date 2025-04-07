@@ -124,7 +124,7 @@ Backend (Node.js, Django, Spring Boot, etc.) talks to the database, processes da
 
 They communicate using HTTP (APIs) or WebSockets (for real-time).
 
- (`<br>`)
+ ====================================================================
 
 ✅ Final Thought
 If you're building backend systems today, you’ll likely choose based on:
