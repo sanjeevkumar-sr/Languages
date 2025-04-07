@@ -60,14 +60,14 @@
 -	NoSQL (Not Only SQL): A class of database systems that store data in formats other than relational tables, such as documents, key-value pairs, or graphs.
 
 # 2.	Database Management Systems (DBMS):
--	Relational Databases:
+#	 Relational Databases:
   -	MySQL: A popular open-source relational database.
   -	PostgreSQL: An advanced open-source relational database known for its extensibility.
   -	Oracle Database: A commercial relational database system widely used in enterprise applications.
   -	Microsoft SQL Server: A relational database management system developed by Microsoft.
   -	SQLite: A lightweight, disk-based database used in embedded systems and mobile apps.
     
--	NoSQL Databases:
+#	 NoSQL Databases:
   -	MongoDB: A document-oriented NoSQL database known for its flexibility and scalability.
   -	Cassandra: A distributed NoSQL database designed for handling large amounts of data across many servers.
   -	Redis: An in-memory key-value store used for caching and real-time applications.
@@ -75,12 +75,12 @@
   -	DynamoDB (AWS): A fully managed NoSQL database provided by Amazon Web Services.
   -	Neo4j: A graph database that stores data as nodes and relationships, ideal for connected data.
     
--	NewSQL Databases:
+#	 NewSQL Databases:
   -	CockroachDB: A distributed SQL database with a focus on horizontal scalability.
   -	Google Spanner: A distributed SQL database provided by Google Cloud, offering strong consistency and horizontal scalability.
   -	VoltDB: A high-performance in-memory NewSQL database designed for high-throughput transaction processing.
 
--	Columnar Databases:
+# 	Columnar Databases:
   -	Apache Cassandra: Known for its scalability, particularly in handling large datasets.
   -	HBase: A distributed, scalable big data store, often used in Hadoop ecosystems.
 
