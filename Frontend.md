@@ -94,6 +94,8 @@ Jetpack Compose – modern toolkit for building Android UI with Kotlin
 
 Type of apps: Banking apps, fitness apps, messaging apps, native Android experiences.
 
+=======================================================
+
 # Summary by Use Case
 👉 Web Frontend Apps:
 Use HTML + CSS + JavaScript with React, Vue, or Angular
