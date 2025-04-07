@@ -3,9 +3,9 @@
 Frontend Languages and Frameworks:
 1.	Languages:
  -	HTML (HyperText Markup Language): The standard language for creating web pages.
-  o	CSS (Cascading Style Sheets): Used for styling and layout of web pages.
-  o	JavaScript: The main scripting language for interactive and dynamic web content.
-  o	TypeScript: A superset of JavaScript that adds static typing and is often used in large-scale applications.
+ -	CSS (Cascading Style Sheets): Used for styling and layout of web pages.
+ - JavaScript: The main scripting language for interactive and dynamic web content.
+   =	TypeScript: A superset of JavaScript that adds static typing and is often used in large-scale applications.
 2.	Frameworks/Libraries:
 o	React.js (JavaScript/TypeScript): A library for building user interfaces, especially single-page applications.
 o	Angular (TypeScript): A full-fledged web application framework developed by Google.
